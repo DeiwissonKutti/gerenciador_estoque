@@ -1,0 +1,44 @@
+{
+  "001": {
+    "nome": "arroz",
+    "valor_produto": 10,
+    "peso": 1.5,
+    "descricao": "Saco de arroz de 1,5kg",
+    "quantidade": 1
+  },
+  "002": {
+    "nome": "feijao",
+    "valor_produto": 10,
+    "peso": 1.5,
+    "descricao": "Saco de arroz de 1,5kg",
+    "quantidade": 1
+  },
+  "003": {
+    "nome": "leite",
+    "valor_produto": 10,
+    "peso": 1.5,
+    "descricao": "Saco de arroz de 1,5kg",
+    "quantidade": 1
+  },
+  "004": {
+    "nome": "carne",
+    "valor_produto": 10,
+    "peso": 1.5,
+    "descricao": "Saco de arroz de 1,5kg",
+    "quantidade": 1
+  },
+  "11": {
+    "nome": "deeed",
+    "quantidade": "1",
+    "valor_produto": "2",
+    "peso": "23",
+    "descricao": "eeeee"
+  },
+  "006": {
+    "nome": "batata",
+    "quantidade": "10",
+    "valor_produto": "2.5",
+    "peso": "2",
+    "descricao": "sacola de batatas"
+  }
+}
